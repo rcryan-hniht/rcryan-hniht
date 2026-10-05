@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnE2cTBzd2RkenFuMGVyY2dtcG1xazhzaWZhN2JjZnMxenp5MjZxZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3pTtbLJ7Jd0YM/giphy.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 💻 "I'm currently learning on software engineering and researching on AI/ML."
